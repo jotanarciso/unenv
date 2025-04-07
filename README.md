@@ -19,6 +19,7 @@ unenv provides polyfills to add [Node.js](https://nodejs.org/) compatibility for
 - [Nuxt](https://nuxt.com/)
 - [Cloudflare](https://developers.cloudflare.com/workers/runtime-apis/nodejs/)
 - [ESM.sh](https://esm.sh/)
+- [Azion](https://github.com/aziontech/lib/tree/main/packages/unenv-preset)
 
 ## Usage
 
